@@ -1,7 +1,7 @@
 # Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach
 Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach
 
-This implements the algorithms in the paper http://arXiv:1812.07394v1 
+This implements the algorithms in the paper https://arxiv.org/abs/1812.07394
 
 "Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach"
 
