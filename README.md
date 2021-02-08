@@ -3,7 +3,7 @@ Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Dee
 
 This implements the algorithms in the paper https://arxiv.org/abs/1812.07394
 
-Some tips: Try to start your journal by run one of the ipynb files, like test_save_model_multiple_t02_noBuf.ipynb.
+Some tips: Try to start your journey by run one of the ipynb files, like test_save_model_multiple_t02_noBuf.ipynb.
 
 "Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach"
 
