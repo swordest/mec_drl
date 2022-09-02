@@ -8,13 +8,21 @@ Some tips: Try to start your journey by run one of the ipynb files, like test_sa
 If you found this is useful for your research, please cite this paper using 
 
 @article{chen2020decentralized,
+
   title={Decentralized computation offloading for multi-user mobile edge computing: A deep reinforcement learning approach},
+  
   author={Chen, Zhao and Wang, Xiaodong},
+  
   journal={EURASIP Journal on Wireless Communications and Networking},
+  
   volume={2020},
+  
   number={1},
+  
   pages={1--21},
+  
   year={2020}
+  
 }
 
 If you have any questions, please contact me via zhao_chen@tsinghua.edu.cn
